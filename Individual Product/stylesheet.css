@@ -1,0 +1,51 @@
+h1 {
+	font-family: sans-serif;
+	font-size: 24px;
+	display: block;
+}
+p {
+	font-family: sans-serif;
+	font-size: 22px;
+}
+a {
+	text-decoration: none;
+}
+header {
+	width: 75%;
+	margin: auto;
+}
+img {
+	height: 300px;
+	width: 300px;
+}
+.container {
+	width: 75%;
+	margin: auto;
+	float: auto;
+	text-align: center;
+
+}
+#welcome {
+ float: right;
+ width: 300px;
+ margin: 20px;
+}
+.image {
+	float: left;
+	margin: 30px;
+	padding: 20px;
+	height: 180px;
+	text-align: center;
+}
+.footer {
+	clear: both;
+	text-decoration: none;
+	font-family: arial;
+}
+li {
+	display: inline;
+	margin: 30px;
+}
+hr {
+	line-height: 3px;
+}
